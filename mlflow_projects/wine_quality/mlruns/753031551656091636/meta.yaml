@@ -1,0 +1,6 @@
+artifact_location: file:///E:/mlflow/mlflow_projects/wine_quality/mlruns/753031551656091636
+creation_time: 1729511251226
+experiment_id: '753031551656091636'
+last_update_time: 1729511251226
+lifecycle_stage: active
+name: experiment_autolog

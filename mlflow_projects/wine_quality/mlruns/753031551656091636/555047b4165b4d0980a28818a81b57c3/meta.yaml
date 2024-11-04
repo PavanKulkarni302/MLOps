@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlflow_projects/wine_quality/mlruns/753031551656091636/555047b4165b4d0980a28818a81b57c3/artifacts
+end_time: 1729512257738
+entry_point_name: ''
+experiment_id: '753031551656091636'
+lifecycle_stage: active
+run_id: 555047b4165b4d0980a28818a81b57c3
+run_name: polite-squirrel-738
+run_uuid: 555047b4165b4d0980a28818a81b57c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729512253083
+status: 3
+tags: []
+user_id: pavan

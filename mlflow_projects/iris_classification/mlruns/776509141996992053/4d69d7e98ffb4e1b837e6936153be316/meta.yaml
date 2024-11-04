@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlflow_projects/iris_classification/mlruns/776509141996992053/4d69d7e98ffb4e1b837e6936153be316/artifacts
+end_time: 1729165230292
+entry_point_name: ''
+experiment_id: '776509141996992053'
+lifecycle_stage: active
+run_id: 4d69d7e98ffb4e1b837e6936153be316
+run_name: mysterious-panda-600
+run_uuid: 4d69d7e98ffb4e1b837e6936153be316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729165222742
+status: 3
+tags: []
+user_id: pavan

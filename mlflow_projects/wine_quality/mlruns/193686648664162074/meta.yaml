@@ -1,0 +1,6 @@
+artifact_location: file:///E:/mlflow/mlflow_projects/wine_quality/mlruns/193686648664162074
+creation_time: 1729437455190
+experiment_id: '193686648664162074'
+last_update_time: 1729437455190
+lifecycle_stage: active
+name: exp_multi_Ridge

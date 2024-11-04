@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlflow_projects/iris_classification/mlruns/776509141996992053/12e3650a5c8445bf97cb863c3ba51806/artifacts
+end_time: 1729149898046
+entry_point_name: ''
+experiment_id: '776509141996992053'
+lifecycle_stage: active
+run_id: 12e3650a5c8445bf97cb863c3ba51806
+run_name: bright-hare-336
+run_uuid: 12e3650a5c8445bf97cb863c3ba51806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729149894363
+status: 3
+tags: []
+user_id: pavan

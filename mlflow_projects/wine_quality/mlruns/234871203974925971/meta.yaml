@@ -1,0 +1,6 @@
+artifact_location: file:///E:/mlflow/mlflow_projects/wine_quality/mlruns/234871203974925971
+creation_time: 1729437462049
+experiment_id: '234871203974925971'
+last_update_time: 1729437462049
+lifecycle_stage: active
+name: exp_multi_Lasso

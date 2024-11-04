@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlflow_projects/wine_quality/mlruns/234871203974925971/c24b45807c0e473cbd84f077ae566e8c/artifacts
+end_time: 1729437466888
+entry_point_name: ''
+experiment_id: '234871203974925971'
+lifecycle_stage: active
+run_id: c24b45807c0e473cbd84f077ae566e8c
+run_name: run-2.1
+run_uuid: c24b45807c0e473cbd84f077ae566e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729437464527
+status: 3
+tags: []
+user_id: pavan
